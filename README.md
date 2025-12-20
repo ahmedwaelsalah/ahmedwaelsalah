@@ -23,7 +23,7 @@ I am a freshman Software Engineer passionate about **low-level computing**, **Op
 
 ### 📈 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=ahmedwaelsalah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaelsalah&layout=compact&theme=radical)
 
 ---
 
