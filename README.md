@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed! 👋
+# Hi there, I'm Ahmed! 👋
 ### 🎓 Software Engineering Student @ Mansoura University
 
 I am a freshman Software Engineer passionate about **low-level computing**, **Operating Systems**, and **Artificial Intelligence**. I love digging into how things work under the hood, from managing memory in C to configuring my own Arch Linux environment.
