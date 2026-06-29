@@ -82,17 +82,6 @@ Event listing, event details, attendee registration, cancellation, duplicate reg
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedwaelsalah&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaelsalah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
