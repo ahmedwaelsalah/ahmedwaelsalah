@@ -6,9 +6,9 @@
 
 I am a freshman Software Engineering student passionate about **backend development**, **low-level computing**, **operating systems**, and **artificial intelligence**.
 
-I have completed solid fundamentals in **C**, **C#**, and **Object-Oriented Programming**, and I am currently building real backend projects using **Python**, **Flask**, **SQLite**, and automated testing.
+I have completed solid foundations in **C**, **C#**, and **Object-Oriented Programming**, and I am currently building real backend projects using **Python**, **Flask**, **Django**, **SQLite**, and automated testing.
 
-I enjoy understanding how software works under the hood, from memory concepts and programming logic to designing clean APIs and working with databases.
+I enjoy understanding how software works under the hood, from programming logic and memory concepts to designing APIs, working with databases, and building clean backend systems.
 
 ---
 
@@ -19,6 +19,8 @@ I enjoy understanding how software works under the hood, from memory concepts an
 ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-6A5ACD?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
@@ -39,7 +41,7 @@ I enjoy understanding how software works under the hood, from memory concepts an
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔗 CodeAlpha URL Shortener
 
@@ -49,22 +51,48 @@ A Flask and SQLite backend API that shortens long URLs, redirects users through 
 Python, Flask, SQLite, SQLAlchemy, Pytest
 
 **Features:**
-REST API, URL validation, redirect handling, click tracking, automated tests
+REST API, URL validation, redirect handling, click tracking, automated tests, and a simple optional frontend.
 
 [View Repository](https://github.com/ahmedwaelsalah/CodeAlpha_URLShortener)
 
 ---
 
+### 🎟️ CodeAlpha Event Registration System
+
+A Django REST API for managing events and attendee registrations. It allows users to view events, register for events, cancel registrations, and prevents duplicate registrations or overbooking.
+
+**Tech Stack:**
+Python, Django, Django REST Framework, SQLite, Pytest
+
+**Features:**
+Event listing, event details, attendee registration, cancellation, duplicate registration prevention, capacity validation, automated tests, and Django Admin panel for event organizers.
+
+[View Repository](https://github.com/ahmedwaelsalah/CodeAlpha_EventRegistrationSystem)
+
+---
+
 ## 🔭 Currently Learning
 
-* Backend Development with Python and Flask
+* Backend Development with Python
 * REST API design and testing
+* Django and Django REST Framework
 * Databases and SQL fundamentals
 * API project structure and clean code
 * Backend deployment fundamentals
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedwaelsalah&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaelsalah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ## 📫 Connect with Me
 
